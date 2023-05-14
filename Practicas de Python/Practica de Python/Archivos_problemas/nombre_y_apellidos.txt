@@ -1,0 +1,20 @@
+Los datos son:
+
+Nombre: Leonel
+Apellido:Torres
+-----------
+Nombre: Vanessa
+Apellido:Rivera
+-----------
+Nombre: Jhostin
+Apellido:Madriz
+-----------
+Nombre: Rigoberto
+Apellido:Madriz
+-----------
+Nombre: Lupita
+Apellido:Reyes
+-----------
+Nombre: Leticia
+Apellido:Rodríguez
+-----------
